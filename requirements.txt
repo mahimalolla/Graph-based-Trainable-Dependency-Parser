@@ -1,0 +1,5 @@
+antu==0.0.5a0
+dynet==2.1.2
+pickle5==0.0.12
+overrides==3.0.0
+bidict==0.21.4
